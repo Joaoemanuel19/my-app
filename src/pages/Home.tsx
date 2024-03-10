@@ -38,6 +38,11 @@ export function Home() {
       return;
     }
 
+    if (getRoomsRef.val().endedAt) {
+      alert('room alredy ended')
+      return;
+    }
+
     navigate(`/rooms/${roomCode}`)
   }
 

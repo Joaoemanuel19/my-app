@@ -1,0 +1,62 @@
+.content-modal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  
+  img {
+    margin-top: 44px;
+  }
+
+  .first-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+
+    P {
+      color: #737380;
+    }
+
+    span {
+      font-family: 'Poppins';
+      font-size: 24px;
+      font-weight: bold;
+    }
+  }
+
+  .second-content {
+    display: flex;
+    gap: 8px;
+
+    .button1 {
+      height: 50px;
+      border-radius: 8px;
+      font-weight: medium;
+      background: #DBDCDD;
+      color: #737380;
+      padding: 0 32px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+      border: 0;
+    }
+
+    .button2 {
+      height: 50px;
+      border-radius: 8px;
+      font-weight: medium;
+      background: #E73F5D;
+      color: #FEFEFE;
+      padding: 0 32px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+      border: 0;
+    }
+  }
+}
