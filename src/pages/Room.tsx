@@ -43,7 +43,7 @@ export function Room() {
     }
 
     if (!user) {
-      throw new Error('you must be logged in');
+      throw new Error('you musst be logged in');
     }
 
     const question = {
