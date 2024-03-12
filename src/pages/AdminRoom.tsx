@@ -85,7 +85,7 @@ export function AdminRoom() {
   return (
     <div id="page-room">
       <header>
-        <div className="content">
+        <div className="content-admin">
           <img src={logoImg} alt="letmeask" />
           <div>
             <RoomCode code={roomId} />

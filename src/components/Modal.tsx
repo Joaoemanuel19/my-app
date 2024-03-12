@@ -56,7 +56,6 @@ export function Modal() {
     <div>
       <Button isOutlined onClick={openModal}>Encerrar Sala</Button>
       <div className="modal">
-
       <ReactModal
         isOpen={modalIsOpen}
         contentLabel="Example Modal"

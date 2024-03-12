@@ -132,4 +132,10 @@
       margin-left: 16px;
     }
   }
+
+  @media (max-width: 800px) {
+    aside {
+      display: none;
+    }
+  }
 }
