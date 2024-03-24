@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
+  <img alt="Letmeask" src=".github/image1.png" width="160px">
 </p>
 
 <p align="center">
@@ -11,8 +11,25 @@
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" src=".github/cover.svg" />
+    <img alt="Letmeask" src=".github/image2.png" />  
 </h1>
+
+<h1 align="center">
+    <img alt="Letmeask" src=".github/image3.png" />
+</h1>
+
+<h1 align="center">
+    <img alt="Letmeask" src=".github/image4.png" />
+</h1>
+
+<h1 align="center">
+    <img alt="Letmeask" src=".github/image5.png" />
+</h1>
+
+<h1 align="center">
+    <img alt="Letmeask" src=".github/image.png" />
+</h1>
+
 
 <br>
 
@@ -29,17 +46,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
-$ cd nlw-06-reactjs
+$ git clone https://github.com/Joaoemanuel19/nlw-together-react
+$ cd nlw-together-react
 ```
 
 Para iniciá-lo, siga os passos abaixo:
 ```bash
 # Instalar as dependências
-$ yarn
+$ npm install
 
 # Iniciar o projeto
-$ yarn start
+$ npm start
 ```
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
@@ -59,23 +76,5 @@ Você pode visualizar o layout do projeto através do link abaixo:
 - [Layout Web](https://www.figma.com/community/file/1009824839797878169/Letmeask) 
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
-
-## 📝 License
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com 💜 by Rocketseat 👋🏻 [Participe da nossa comunidade](https://discord.gg/gKUVrzrPrU)
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
 
 <!--END_SECTION:footer-->
